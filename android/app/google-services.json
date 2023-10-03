@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267291320550",
+    "project_id": "leisurely-api",
+    "storage_bucket": "leisurely-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267291320550:android:88c3784fce402bdb381b27",
+        "android_client_info": {
+          "package_name": "com.leisurely.leisurely_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267291320550-og8f3cpfv7qcr1af2va7cuqb7319lbhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjxZw8hwbPBq2ddLWrSsx_Q5Ex-HPOys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267291320550-og8f3cpfv7qcr1af2va7cuqb7319lbhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
